@@ -1,0 +1,106 @@
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\bin\Debug\SaccoProj.exe
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\bin\Debug\SaccoProj.pdb
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\bin\Debug\SaccoProj.xml
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Resources.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.vbproj.GenerateResource.Cache
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.exe
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.xml
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.pdb
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Login.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Boss.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossAttentants.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossTellers.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttendantEntry.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttAddMem.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttViewMem.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellerEntry.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossLoans.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossMembers.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Savings.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellerLoan.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellervLoan.resources
+C:\Users\Folio 13\Desktop\programing practice\Database Project\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Savingscreate.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.exe
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.xml
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.pdb
+C:\ProgramData\projects\SaccoProj\SaccoProj\bin\Debug\SaccoProj.exe
+C:\ProgramData\projects\SaccoProj\SaccoProj\bin\Debug\SaccoProj.pdb
+C:\ProgramData\projects\SaccoProj\SaccoProj\bin\Debug\SaccoProj.xml
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttAddMem.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttViewMem.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttendantEntry.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Boss.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossAttentants.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossTellers.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossLoans.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Login.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossMembers.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Resources.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Savings.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Savingscreate.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellerEntry.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellerLoan.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellervLoan.resources
+C:\ProgramData\projects\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.vbproj.GenerateResource.Cache
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.exe
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.xml
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.pdb
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\bin\Debug\SaccoProj.exe
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\bin\Debug\SaccoProj.pdb
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\bin\Debug\SaccoProj.xml
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttAddMem.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttViewMem.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttendantEntry.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Boss.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossAttentants.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossTellers.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossLoans.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Login.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossMembers.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Resources.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Savings.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Savingscreate.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellerEntry.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellerLoan.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellervLoan.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.vbproj.GenerateResource.Cache
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.EditMember.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.SavingInsert.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.vbprojResolveAssemblyReference.cache
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Form1.resources
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\bin\Debug\SaccoProj.exe.manifest
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\bin\Debug\SaccoProj.application
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TrustInfo.xml
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.exe.manifest
+C:\Users\Folio 13\Desktop\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.application
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.exe
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.xml
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.pdb
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\bin\Debug\SaccoProj.exe.manifest
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\bin\Debug\SaccoProj.application
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\bin\Debug\SaccoProj.exe
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\bin\Debug\SaccoProj.pdb
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\bin\Debug\SaccoProj.xml
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.vbprojResolveAssemblyReference.cache
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttAddMem.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttViewMem.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.AttendantEntry.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Boss.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossAttentants.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossTellers.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossLoans.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.EditMember.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Form1.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Login.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.BossMembers.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Resources.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.SavingInsert.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Savings.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.Savingscreate.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellerEntry.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellerLoan.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TellervLoan.resources
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.vbproj.GenerateResource.Cache
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.TrustInfo.xml
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.exe.manifest
+C:\Users\Folio 13\Desktop\a1\programming practice\VB\SaccoProj\SaccoProj\obj\x86\Debug\SaccoProj.application
